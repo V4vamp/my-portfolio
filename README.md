@@ -1,4 +1,4 @@
-# Tobechukwu Uka Portfolio
+# Muhammad Mukhtar Portfolio
 
 ## Available Scripts
 
